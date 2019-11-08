@@ -1,5 +1,9 @@
 # vue-base-template-pattern
 
+## Pattern
+
+An example of the base component pattern explain in [vue-entreprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate).
+
 ## Project setup
 ```
 npm install
